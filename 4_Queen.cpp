@@ -1,5 +1,5 @@
 /*4-Queen matrix is stored having first queen placed; use backtracking to 
-place remaining queens to generate the final 8-queen matrix using python. */
+place remaining queens to generate the final 4-queen matrix using python. */
 #include <iostream> 
 using namespace std; 
  
